@@ -1,4 +1,4 @@
-# 💼 E-commerce Product Page 
+# 💼 E-commerce Product Page
 
 Esta é uma **página de produto de e-commerce** desenvolvida com **React**, **TypeScript**, **Tailwind CSS** e **Vite**. A aplicação simula a visualização de um produto com imagens, variantes, cálculo de frete e persistência de estado do usuário.
 
@@ -46,5 +46,13 @@ Esta é uma **página de produto de e-commerce** desenvolvida com **React**, **T
    ```
 
 4. **Acesse em:** [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🌍 Página Online
+
+Acesse a versão publicada do projeto:
+
+👉 [https://teste-produto.vercel.app/](https://teste-produto.vercel.app/)
 
 ---
